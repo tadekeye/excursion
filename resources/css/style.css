@@ -58,3 +58,6 @@ img {
     height: fit-content;
     margin: 1rem auto 2rem auto;
 }
+footer h3 {
+    text-align: right;
+}
