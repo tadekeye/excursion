@@ -24,3 +24,12 @@ a {
     font-weight: normal;
     margin: 2rem auto;
 }
+.vid-container {
+    width: fit-content;
+    height: fit-content;
+    margin: 2rem auto;
+}
+video {
+    width: 100%;
+    height: auto;
+}
