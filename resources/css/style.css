@@ -47,9 +47,14 @@ h3 {
 .img-container {
     width: fit-content;
     height: fit-content;
-    margin: 2rem auto;
+    margin: 1rem auto;
 }
 img {
     width: 100%;
     height: auto;
+}
+.img-container.icon {
+    width: fit-content;
+    height: fit-content;
+    margin: 1rem auto 2rem auto;
 }
